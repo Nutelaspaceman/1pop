@@ -5,3 +5,4 @@ SGVyZSBhcmUgdGhlIGRvd25sb2FkcyEgICA6KQoyLjAgaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20v
 
 base64
 https://www.base64decode.org/
+how to download: copy and paste the part up and decode it, the links will show up!
